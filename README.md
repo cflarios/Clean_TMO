@@ -1,4 +1,4 @@
-# Evitar Redirección Publicitaria con UniqueId
+# Clean TMO
 
 Este script de Tampermonkey está diseñado para evitar las redirecciones publicitarias en el sitio [zonatmo.com](https://zonatmo.com) cuando accedes a capítulos de manga. Extrae el `uniqid` de la página de manga y te redirige directamente al capítulo sin las interrupciones de publicidad, y maneja dinámicamente el contenido de la página.
 
@@ -24,6 +24,8 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
    - Pega el código del script en el editor.
 
 3. Guarda el script y asegúrate de que esté habilitado.
+
+**NOTA**: Es NECESARIO que tu navegador tenga activado el 'Modo de desarrollador' de lo contrario Tampermonkey no funcionará. 
 
 ### Uso
 

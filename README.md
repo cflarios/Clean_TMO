@@ -19,7 +19,7 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 
 2. Crea un nuevo script en Tampermonkey:
    - Haz clic en el ícono de Tampermonkey en la barra de herramientas de tu navegador.
-   - Selecciona **"Crear un nuevo script..."**.
+   - Selecciona **"Agregar nuevo script..."**.
    - Elimina cualquier código que aparezca por defecto.
    - Pega el código del script en el editor.
 

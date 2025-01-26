@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Evitar Redirección Publicitaria con UniqueId
+// @name         Clean TMO
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Evita redirecciones publicitarias extrayendo uniqid para acceder al capítulo y maneja contenido dinámico.
 // @author       Cflarios
 // @match        https://zonatmo.com/library/manga/*
+// @match        https://zonatmo.com/library/manhwa/*
+// @match        https://zonatmo.com/library/manhua/*
 // @match        https://zonatmo.com/viewer/*
 // @icon         https://www.google.com/s2/favicons?domain=zonatmo.com
 // @grant        none

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Clean TMO
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Evita redirecciones publicitarias extrayendo uniqid para acceder al capítulo y maneja contenido dinámico.
 // @author       Cflarios
 // @match        https://zonatmo.com/library/manga/*

@@ -21,7 +21,7 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
    - Haz clic en el ícono de Tampermonkey en la barra de herramientas de tu navegador.
    - Selecciona **"Agregar nuevo script..."**.
    - Elimina cualquier código que aparezca por defecto.
-   - Pega el código del script en el editor.
+   - Pega el código del [script](https://github.com/cflarios/Clean_TMO/blob/main/clean_tmo.js) en el editor.
 
 3. Guarda el script y asegúrate de que esté habilitado.
 

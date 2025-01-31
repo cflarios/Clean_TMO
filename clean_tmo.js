@@ -1,13 +1,40 @@
 // ==UserScript==
 // @name         Clean TMO
-// @namespace    https://github.com/cflarios/Clean_TMO
-// @version      1.2
 // @description  Evita redirecciones publicitarias cuando lees capítulos en TMO
+// @version      1.2
 // @author       Cflarios
+// @license      MIT
+
+// @namespace    https://github.com/cflarios/Clean_TMO
+// @homepage     https://github.com/cflarios/Clean_TMO
+// @supportURL   https://github.com/cflarios/Clean_TMO
+
 // @match        https://zonatmo.com/library/*
 // @match        https://zonatmo.com/viewer/*
 // @icon         https://www.google.com/s2/favicons?domain=zonatmo.com
-// @grant        none
+
+// @grant        GM_info
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_deleteValue
+// @grant        GM_xmlhttpRequest
+// @grant        GM_registerMenuCommand
+// @grant        GM_openInTab
+// @grant        GM_notification
+// @grant        GM_addStyle
+// @grant        GM_log
+// @grant        GM_getResourceText
+// @grant        GM_getResourceURL
+// @grant        GM_listValues
+// @grant        GM_addValueChangeListener
+// @grant        GM_removeValueChangeListener
+// @grant        GM_setClipboard
+// @grant        GM_getTab
+// @grant        GM_saveTab
+// @grant        GM_getTabs
+// @grant        GM_download
+// @grant        GM_getResourceURL
+// @grant        GM_getResourceText
 // ==/UserScript==
 
 (function () {

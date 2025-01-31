@@ -9,7 +9,18 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 - Maneja contenido dinámico al cargar los capítulos.
 - Realiza una recarga de la página al finalizar la carga del capítulo para actualizar el contenido correctamente.
 
-### Instalación
+
+### Instalación: Opción 1
+
+1. Instala la extensión **Tampermonkey** en tu navegador.  
+   - [Tampermonkey para Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
+   - [Tampermonkey para Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+   - [Tampermonkey para Edge](https://tampermonkey.net/?ext=dhdg&browser=edge)
+   - [Tampermonkey para Opera](https://tampermonkey.net/?ext=dhdg&browser=opera)
+
+2. Dirígete a este [link](https://greasyfork.org/es-419/scripts/525421-clean-tmo) y dale al botón de **"Instalar este script"**.
+
+### Instalación: Opción 2
 
 1. Instala la extensión **Tampermonkey** en tu navegador.  
    - [Tampermonkey para Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
@@ -25,7 +36,8 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 
 3. Guarda el script y asegúrate de que esté habilitado.
 
-**NOTA**: Es NECESARIO que tu navegador tenga activado el 'Modo de desarrollador' de lo contrario Tampermonkey no funcionará. 
+
+<mark style="background-color: lightblue"> **NOTA**: Es **NECESARIO** que tu navegador tenga activado el 'Modo de desarrollador' de lo contrario Tampermonkey no funcionará. </mark>
 
 ### Uso
 

@@ -10,7 +10,7 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 - Realiza una recarga de la página al finalizar la carga del capítulo para actualizar el contenido correctamente.
 
 
-### Instalación: Opción 1
+### Instalación en PC: Opción 1
 
 1. Instala la extensión **Tampermonkey** en tu navegador.  
    - [Tampermonkey para Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
@@ -20,7 +20,7 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 
 2. Dirígete a este [link](https://greasyfork.org/es-419/scripts/525421-clean-tmo) y dale al botón de **"Instalar este script"**.
 
-### Instalación: Opción 2
+### Instalación en PC: Opción 2
 
 1. Instala la extensión **Tampermonkey** en tu navegador.  
    - [Tampermonkey para Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)
@@ -36,6 +36,15 @@ Este script de Tampermonkey está diseñado para evitar las redirecciones public
 
 3. Guarda el script y asegúrate de que esté habilitado.
 
+### Instalación en Android
+
+1. Instala Microsoft Edge en tu teléfono o escanéa el siguiente QR.
+
+   <img title="QR" alt="Edge download QR" src="./assets/ms_edge_QR.png">
+
+2. Habilita Tampermonkey en el navegador de Edge (Edge puede usar extensiones, al igual que en el PC)
+
+3. Dirígete al [link](https://greasyfork.org/es-419/scripts/525421-clean-tmo) de instalación y dale al botón de **"Instalar este script"**.
 
 <mark style="background-color: lightblue"> **NOTA**: Es **NECESARIO** que tu navegador tenga activado el 'Modo de desarrollador' de lo contrario Tampermonkey no funcionará. </mark>
 
